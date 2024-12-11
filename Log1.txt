@@ -1,0 +1,9 @@
+10:57:58 AM	Deploying WebResources
+10:57:58 AM	Using Config 'C:\Users\suren\Data\powerapp\DataverseSolutions\DataverseSolutions'
+10:57:59 AM	Creating Webresource '../../clientjs/dist/ClientHooks.js' -> 'dynamicsgp_s_clienthooks.js'
+10:58:04 AM	Adding to solution 'customizations'
+10:58:05 AM	Deployed 1 webresource(s)
+10:58:05 AM	Publishing 1 webresources...
+10:58:11 AM	Publish complete.
+10:58:11 AM	Processed 1 section(s)
+10:58:11 AM	Processed 1 config(s)
